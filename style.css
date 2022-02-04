@@ -1,0 +1,32 @@
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    block-size: 5rem;  
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+h1{
+   font-size: 4rem;
+   color: white;
+    }
+    span{
+    font-size: 30px;
+    font-weight: bold;
+    }
+button{
+    background-color: darkblue;
+    border-radius: 16px;
+    padding: 20px 40px;
+    display: inline;
+}
+#submit{
+    font-weight: bold;
+    font-size: x-large;
+    background-color: black;
+    color: blanchedalmond;
+}
